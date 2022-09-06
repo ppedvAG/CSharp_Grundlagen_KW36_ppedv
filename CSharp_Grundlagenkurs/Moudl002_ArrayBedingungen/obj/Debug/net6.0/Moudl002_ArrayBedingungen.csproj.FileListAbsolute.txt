@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\bin\Debug\net6.0\Moudl002_ArrayBedingungen.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\bin\Debug\net6.0\Moudl002_ArrayBedingungen.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\bin\Debug\net6.0\Moudl002_ArrayBedingungen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\bin\Debug\net6.0\Moudl002_ArrayBedingungen.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\bin\Debug\net6.0\Moudl002_ArrayBedingungen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\refint\Moudl002_ArrayBedingungen.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\Moudl002_ArrayBedingungen.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Moudl002_ArrayBedingungen\obj\Debug\net6.0\ref\Moudl002_ArrayBedingungen.dll

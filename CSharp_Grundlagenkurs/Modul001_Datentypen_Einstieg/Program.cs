@@ -197,6 +197,16 @@
             int hoechsterWertMax = Math.Max(a, b);
 
             int niedrigsterWertMin = Math.Min(a, b);
+
+
+            //Modulo
+
+            if (100 % 4 == 0)
+            {
+
+                Console.WriteLine("100 ist in BinaryReader 4er Reihenfolge");
+            }
+
         }
     }
 }
