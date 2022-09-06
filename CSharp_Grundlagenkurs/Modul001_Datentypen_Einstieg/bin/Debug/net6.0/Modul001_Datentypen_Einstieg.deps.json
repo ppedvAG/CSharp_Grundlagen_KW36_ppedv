@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul001_Datentypen_Einstieg/1.0.0": {
+        "runtime": {
+          "Modul001_Datentypen_Einstieg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul001_Datentypen_Einstieg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
