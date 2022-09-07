@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+        //Startpunkt des Programm 
         static void Main(string[] args)
         {
 
@@ -54,6 +56,12 @@
             //Gegenüber dem String benötigt ein Char nur ein Hochkomma 
             char charZeichen = 'A'; //Hier wird im Hintergrund auch der Wert der Ascii-Tabelle abgelegt. //65
 
+
+
+            decimal money = 123m; //suffix mit m 
+
+            DateTime dateTime = DateTime.Now;   //Aktuelle Urhzeit
+            DateTime dateTime1 = DateTime.UtcNow;
             #endregion
 
             #region String und Konsolenausgaben 

@@ -80,6 +80,20 @@ namespace Moudl002_ArrayBedingungen
             int a = 23;
             int b = 23;
 
+            bool retValue = true;
+            bool retValue1 = false;
+
+
+            //Wenn retValue "true" ist, wird Console.WriteLine ausgeführt
+            if (retValue)
+                Console.WriteLine("Return-Wert ist true");
+
+            //Wenn retValue false ist kann man mithilfe des Ausrufezeichens das Statement umkippen 
+            if (!retValue1)
+                Console.WriteLine("Return-Wert ist false");
+            else
+                Console.WriteLine("Return-Value ist true");
+
             //IF-ELSEIF-ELSE-Block
             ///Das Programm wird den ersten Block ausführen, bei welchem er auf eine wahre Bedingung trifft und dann am Ende des Blocks mit
             ///dem Code weiter machen
@@ -100,6 +114,17 @@ namespace Moudl002_ArrayBedingungen
                 Console.WriteLine("A und B sind gleich");
             }
 
+            if (a==b)
+            {
+                Console.WriteLine("A ist gleich B");
+            }
+
+            if (a < b)
+                Console.WriteLine("Ausgabe");
+            else if (a > b)
+                Console.WriteLine("Ausgabe 2");
+            else
+                Console.WriteLine("Ausgabe 3");
 
             //if (a == b)
             //    Console.WriteLine("gleich");

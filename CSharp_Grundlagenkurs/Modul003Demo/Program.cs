@@ -21,6 +21,20 @@
 
             //Kopfgesteuerte Schleife: for-Schleife
             //
+
+            List<int> lottozahlen = new List<int>();
+            lottozahlen.Add(10);
+            lottozahlen.Add(20);
+            lottozahlen.Add(30);
+
+
+            
+            //for (int i = 0; i <= lottozahlen.Count; i++)
+            //    Console.WriteLine(lottozahlen[i]); //Blättern durch eine Liste
+
+            for (int i = 0; i < lottozahlen.Count; i++)
+                Console.WriteLine(lottozahlen[i]); //Blättern durch eine Liste
+
             for (a=0; a < b; a++)
             {
                 Console.WriteLine("A ist kleiner als B");
@@ -72,7 +86,7 @@
                 if (a == 5)
                     break; //wenn break aufgerufen wird, verlassen wir sofort eine Schleife
                 a++;
-            }
+            } // bei einem Break verlasse ich die Schleife und lande hier 
 
 
             //Continue
@@ -98,23 +112,21 @@
 
 
                 if (x % 2 == 0)
-                    continue;
+                    continue; 
 
-
+                //Interne Schleife
                 for (int y = 0; y < 100; y++)
                 {
                     if (y % 2 == 0)
-                        continue;
+                        continue; //bricht internen Schleifen-Intervall ab 
 
                     if (y % 19 == 0)
-                        break;
+                        break; //bricht nur interne Schleife ab
                 }
             }
 
 
             #endregion
-
-
 
             #region Enums
 
@@ -123,8 +135,8 @@
 
             Console.WriteLine($"Heute ist also {wochentag}");
 
-
-            for(int weekDay = 1; weekDay < 8; weekDay++)
+            #region Beispiel 2
+            for (int weekDay = 1; weekDay < 8; weekDay++)
             {
 
                 //Wochentagnummer (1..7) WelcherTagAlsName 
@@ -133,7 +145,7 @@
             }
             #endregion
 
-            #region Beispiel 2
+            
             //Speichern einer Benutzereingabe (Int) als Enumerator
             //Cast: Int -> Wochentag
             
@@ -151,7 +163,6 @@
             #endregion
 
             #endregion
-
 
             #region Enums vs Arrays
             string[] WeekDays = new string[7];
@@ -182,13 +193,11 @@
 
             #endregion
 
-
             #region Switch mit Enums
 
             if (wochentag1 == Wochentag.Montag)
             {
                 //...
-
                 Console.WriteLine("Montag");
             }
             else if(wochentag1 == Wochentag.Dienstag || wochentag1 == Wochentag.Mittwoch || wochentag1 == Wochentag.Donnerstag)
@@ -225,13 +234,41 @@
             }
             #endregion
 
+            #region BitFlag
+            FischssortenInMeinenSee selektierteFischSorten = FischssortenInMeinenSee.Zander | FischssortenInMeinenSee.Karpfen | FischssortenInMeinenSee.Hecht;
+
+
+            foreach (FischssortenInMeinenSee currentFischSorte in Enum.GetValues(typeof(FischssortenInMeinenSee)))
+            {
+                if (selektierteFischSorten.HasFlag(currentFischSorte) && currentFischSorte != FischssortenInMeinenSee.KeineFische)
+                {
+                    Console.WriteLine($"{currentFischSorte} befindet sich in deinem See");
+                }
+            }
+            #endregion
+
         }
     }
 
+
+    //Optional können wir bei dem ersten Enum-Eintrag den Start-Wert definieren -> siehe Montag = 1
     public enum Wochentag { Montag=1, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag }
 
 
-    
+    [Flags]
+    public enum FischssortenInMeinenSee
+    {
+        KeineFische = 0,
+        Forelle = 1,
+        Hecht = 2,
+        Zander = 4, 
+        Karpfen = 8,
+        Barsch = 16,
+        Wels = 32
+    }
+
+
+
 
 
 }
