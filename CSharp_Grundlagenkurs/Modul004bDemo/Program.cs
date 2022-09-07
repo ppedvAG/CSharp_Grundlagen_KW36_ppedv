@@ -19,7 +19,18 @@
 
             Console.WriteLine(alterPersonA);
             Console.WriteLine(alterPersonB);
+
+            string eingabe = "123";
+
+            int numberInput;
+
+            if (int.TryParse(eingabe, out numberInput))
+            {
+
+            }
         }
+
+
 
         static void PersonAltertUmEinJahrA(int age)
         {
@@ -29,6 +40,18 @@
         static void PersonAltertUmEinJahrB(ref int age)
         {
             age++;
+        }
+
+        static void PersonAltertUmEinJahrC(in int age)
+        {
+            //in ist readonly
+
+            age++;
+        }
+
+        static void PersonAltertUmIrgendwas(out int age)
+        {
+            age = 123; //Out 
         }
     }
 }

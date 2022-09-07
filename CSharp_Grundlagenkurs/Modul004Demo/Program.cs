@@ -76,8 +76,11 @@
         }
 
         static int Subtrahiere(int a, int b, int c = 0, int d = 0)
-        {
-            return a - b - c - d;
-        }
+            => a - b - c - d;
+        
+
+        public double Multiplizieren(int a, int b, int c)
+            => a * b * c;
+
     }
 }

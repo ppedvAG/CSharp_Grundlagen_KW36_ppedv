@@ -148,6 +148,8 @@ namespace Moudl002_ArrayBedingungen
                 //wenn Werte gleich sind, kommen wir in diesen Block 
             }
 
+            #endregion
+
         }
     }
 }
