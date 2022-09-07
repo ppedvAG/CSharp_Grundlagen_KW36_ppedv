@@ -45,8 +45,9 @@
         static void PersonAltertUmEinJahrC(in int age)
         {
             //in ist readonly
+            //age++; -> geht nicht
 
-            age++;
+            Console.WriteLine(age);
         }
 
         static void PersonAltertUmIrgendwas(out int age)

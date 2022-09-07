@@ -23,7 +23,7 @@
             //str.Trim
             //str.Replace
 
-            string str = string.Empty; //str ="";
+            string str2 = string.Empty; //str ="";
 
             if (string.IsNullOrEmpty(str))
             {

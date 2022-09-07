@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\bin\Debug\net6.0\Modul007_Vererbung.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\bin\Debug\net6.0\Modul007_Vererbung.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\bin\Debug\net6.0\Modul007_Vererbung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\bin\Debug\net6.0\Modul007_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\bin\Debug\net6.0\Modul007_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\refint\Modul007_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\Modul007_Vererbung.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007_Vererbung\obj\Debug\net6.0\ref\Modul007_Vererbung.dll

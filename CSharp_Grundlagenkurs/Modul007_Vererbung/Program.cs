@@ -4,14 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Mensch mensch = new Mensch("Otto", "Walkes", null, "Mensch", 80, new DateTime(1965, 7, 3), 10);
+
+            Mensch mensch1 = new Mensch("Junior Otto", "Walkes", mensch, "Mensch", 80, new DateTime(1965, 7, 3), 10);
+
+            Console.WriteLine(Mensch.ZeigeAnzahlLebewesen());
         }
     }
 
     public class Lebewesen
     {
         public DateTime Geburtsdatum { get; set; }
-        public string Name { get; set; }
+        public string Bezeichnung { get; set; }
         public double Gewicht { get; set; }
 
         public double Groeße { get; set; }
@@ -42,7 +46,7 @@
             : this()
         {
             Geburtsdatum = geb;
-            Name = name;
+            Bezeichnung = name;
             Gewicht = gewicht;
         }
 
@@ -59,16 +63,38 @@
         public Lebewesen(Lebewesen otherLebewesen)
             : this()
         {
-            Name = otherLebewesen.Name;
+            Bezeichnung = otherLebewesen.Bezeichnung;
             Gewicht = otherLebewesen.Gewicht;
             Geburtsdatum = otherLebewesen.Geburtsdatum;
         }
         #endregion
 
         public void Atmen()
-            => Console.WriteLine($"{Name} atmet");
+            => Console.WriteLine($"{Bezeichnung} atmet");
+    }
+
+    public class Mensch : Lebewesen
+    {
+       
+
+        public Mensch(string vorname, string nachname, Mensch mutter, string name, double gewicht, DateTime geb, double groeße) 
+            : base(name, gewicht, geb, groeße)
+        {
+            Vorname = vorname;
+            Nachname = nachname;
+            Mutter = mutter; 
+        }
+
+        public string Vorname { get; set; }
+        public string Nachname { get; set; }
+        public Mensch Mutter { get; set; }
 
 
+        
 
+        public void Sprechen ()
+        {
+            Console.WriteLine($"{Vorname} sagt etwas");
+        }
     }
 }
