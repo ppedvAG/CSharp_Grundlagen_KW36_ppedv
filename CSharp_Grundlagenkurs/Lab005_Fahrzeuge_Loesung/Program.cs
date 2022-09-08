@@ -49,6 +49,46 @@
             }
         }
 
+
+        public void StarteMotor()
+        {
+            
+            if (this.MotorLäuft)
+            {
+                Console.WriteLine($"Der Motor von {Name} läuft bereits");
+            }
+            else
+            {
+                this.MotorLäuft = true;
+                Console.WriteLine($"Der Motor von {Name} wurde eingeschaltet");
+            }
+        }
+
+        public void StoppeMotor()
+        {
+            if (!MotorLäuft) //MotorLäuft == false
+            {
+                Console.WriteLine("Der Motor wurde bereits gestoppt");
+            }
+            else if (this.AktGeschwindigkeit > 0)
+            {
+                Console.WriteLine($"Der Motor kann nicht gestoppt werden, da sich {Name} noch bewegt");
+            }
+            else
+            {
+                this.MotorLäuft = false;
+                Console.WriteLine($"Der Motor von {this.Name} wurde gestoppt.");
+            }
+        }
+
+        //Methode zur Ausgabe von Objektinformationen
+        public string Info()
+        {
+            if (this.MotorLäuft)
+                return $"{this.Name} kostet {this.Preis}€ und fährt momentan mit {this.AktGeschwindigkeit} von maximal {this.MaxGeschwindigkeit}km/h.";
+            else
+                return $"{this.Name} kostet {this.Preis}€ und könnte maximal {this.MaxGeschwindigkeit}km/h fahren.";
+        }
         #endregion
     }
 }
