@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\bin\Debug\net6.0\Modul007b_VirtualSample.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\bin\Debug\net6.0\Modul007b_VirtualSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\bin\Debug\net6.0\Modul007b_VirtualSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\bin\Debug\net6.0\Modul007b_VirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\bin\Debug\net6.0\Modul007b_VirtualSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\refint\Modul007b_VirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\Modul007b_VirtualSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007b_VirtualSample\obj\Debug\net6.0\ref\Modul007b_VirtualSample.dll

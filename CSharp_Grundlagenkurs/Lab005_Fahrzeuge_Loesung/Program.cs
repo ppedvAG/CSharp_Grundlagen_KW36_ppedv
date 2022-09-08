@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Fahrzeug car1 = new Fahrzeug("VW", 210, 20_000);
         }
     }
 

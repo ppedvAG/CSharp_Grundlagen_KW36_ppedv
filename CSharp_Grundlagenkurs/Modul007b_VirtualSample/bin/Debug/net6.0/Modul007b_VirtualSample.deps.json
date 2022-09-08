@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul007b_VirtualSample/1.0.0": {
+        "runtime": {
+          "Modul007b_VirtualSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul007b_VirtualSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
