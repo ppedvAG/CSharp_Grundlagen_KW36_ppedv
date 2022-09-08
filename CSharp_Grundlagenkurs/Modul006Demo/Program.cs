@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Lebewesen lebewesen = new Lebewesen();
-
+            
             Lebewesen lebewesen2 = new Lebewesen("Gestiefelter Kater", 5, DateTime.Now);
             Lebewesen lebewesen3 = new Lebewesen("Garfield", 20, DateTime.Now, 1);
 

@@ -17,6 +17,7 @@ namespace Modul005DemoB
 
         //KONSTRUKTOREN sind spezielle Methoden, welche ein neues Objekt instanziiert und den Anfangszustand festlegt. Sie definieren sich
         ///durch den Namen (derselbe, wie die Klasse) und den nicht vorhandenen Rückgabetyp (nicht mal void)
+       
         public Lebewesen(string name, double gewicht, DateTime geb)
         {
             Geburtsdatum = geb;
@@ -27,7 +28,7 @@ namespace Modul005DemoB
         public Lebewesen(string name, double gewicht, DateTime geb, double groeße)
             :this(name, gewicht, geb) //Aufruf von Konstruktor -> public Lebewesen(string name, double gewicht, DateTime geb)
         {
-
+            
             Groeße = groeße;
         }
 

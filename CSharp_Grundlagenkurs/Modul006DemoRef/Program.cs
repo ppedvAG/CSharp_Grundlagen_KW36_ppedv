@@ -5,7 +5,27 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Lebewesen lebewesen = new Lebewesen();
+            lebewesen = null;
+
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+
+
+            Methode();
+
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
         }
+
+        static void Methode()
+        {
+            Lebewesen lebewesen = new Lebewesen();
+            lebewesen.Name = "Katze";
+
+
+        } //Hier wird das Objekt 'lebewesen' nicht mehr verwendet. 
     }
 
 

@@ -75,8 +75,6 @@
 
     public class Mensch : Lebewesen
     {
-       
-
         public Mensch(string vorname, string nachname, Mensch mutter, string name, double gewicht, DateTime geb, double groeße) 
             : base(name, gewicht, geb, groeße)
         {
@@ -88,9 +86,6 @@
         public string Vorname { get; set; }
         public string Nachname { get; set; }
         public Mensch Mutter { get; set; }
-
-
-        
 
         public void Sprechen ()
         {

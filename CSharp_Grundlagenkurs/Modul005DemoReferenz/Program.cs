@@ -29,10 +29,11 @@
         //Wird in einer Eigenschaft keine Spezifizierung angegeben, generiert das Programm das entsprechende Feld unsichtbar im Hintergrund
         //Snippet: prop
         public string Lieblingsnahrung { get; set; }
-
-
+      
         //Property, welche einen komplexen Datentypen abbildet
-        public DateTime Geburtsdatum { get; set; }
+        public DateTime? Geburtsdatum { get; set; }
+        
+        public int? Id { get; set; }
         //Read-only Property mit Rückbezug auf andere Property
         public int AlterInJahren
         {
@@ -54,7 +55,7 @@
         //Übergabeparameter hat, wird als Basiskonstruktor bezeichnet
         public Lebewesen()
         {
-
+            //Hier wird kein Geburtsdatum gesetzt
         }
         #endregion
 
@@ -65,15 +66,15 @@
         {
             return new Lebewesen(kindname, this.Nachname, DateTime.Now);
         }
-
         #endregion
-
     }
 
     class Program
     {
         static void Main(string[] args)
         {
+
+            
             #region Modul 05: OOP
             //Deklarierung von Person-Variablen und Instanziierung von neuen Personenobjekten per Konstruktor
             Lebewesen neuesLebewesen = new Lebewesen("Bello", "Fleisch", new DateTime(2007, 4, 23));

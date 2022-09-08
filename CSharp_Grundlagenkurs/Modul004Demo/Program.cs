@@ -42,6 +42,8 @@
             return a + b;
         }
 
+       
+
         public static int Addiere(int a, int b, int c)
         {
             return a + b + c;
@@ -62,6 +64,17 @@
         public static void VersionsInformation()
         {
             Console.WriteLine("Version 1.2");
+        }
+
+        public static int[] Lottoziehung()
+        {
+            int[] lottoziehung = new int[7];
+            lottoziehung[0] = 5;
+            lottoziehung[1] = 6;
+            lottoziehung[2] = 7;
+
+            //...
+            return lottoziehung;
         }
 
 

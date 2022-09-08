@@ -49,6 +49,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul007_Vererbung", "Modul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_Vererbung", "Modul007_Vererbung\Modul007_Vererbung.csproj", "{81027FE8-DBFA-41E0-96D8-8F334DBDF0B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableDatatypes.cs", "NullableDatatypes.cs\NullableDatatypes.cs.csproj", "{540CB87C-8409-40DA-9204-FB3955721CED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +121,10 @@ Global
 		{81027FE8-DBFA-41E0-96D8-8F334DBDF0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81027FE8-DBFA-41E0-96D8-8F334DBDF0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81027FE8-DBFA-41E0-96D8-8F334DBDF0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540CB87C-8409-40DA-9204-FB3955721CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540CB87C-8409-40DA-9204-FB3955721CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540CB87C-8409-40DA-9204-FB3955721CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540CB87C-8409-40DA-9204-FB3955721CED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +146,7 @@ Global
 		{70C26502-D90B-4B28-8F3A-CDCD58AEC703} = {B422D602-ECF1-4350-8624-B02FB4A3DE70}
 		{633793EB-1591-452D-A07E-1331DA7743FD} = {B422D602-ECF1-4350-8624-B02FB4A3DE70}
 		{81027FE8-DBFA-41E0-96D8-8F334DBDF0B6} = {EC22666B-646C-4A9B-8859-317DA1B1009B}
+		{540CB87C-8409-40DA-9204-FB3955721CED} = {AF235D8E-4A57-44D9-875C-EAF76740EBFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6935B125-A976-45EB-BA7F-CC1ACA956921}
