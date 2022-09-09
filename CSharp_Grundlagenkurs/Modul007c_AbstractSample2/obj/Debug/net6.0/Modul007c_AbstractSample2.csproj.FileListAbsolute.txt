@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\bin\Debug\net6.0\Modul007c_AbstractSample2.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\bin\Debug\net6.0\Modul007c_AbstractSample2.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\bin\Debug\net6.0\Modul007c_AbstractSample2.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\bin\Debug\net6.0\Modul007c_AbstractSample2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\bin\Debug\net6.0\Modul007c_AbstractSample2.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\refint\Modul007c_AbstractSample2.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\Modul007c_AbstractSample2.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\Modul007c_AbstractSample2\obj\Debug\net6.0\ref\Modul007c_AbstractSample2.dll

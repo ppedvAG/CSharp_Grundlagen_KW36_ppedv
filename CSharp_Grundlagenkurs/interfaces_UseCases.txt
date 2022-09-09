@@ -1,0 +1,3 @@
+
+
+SOLID Prinzipien (5 Regel, wie man mit Klassen und Interfaces umgeht)

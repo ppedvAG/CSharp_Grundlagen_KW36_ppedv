@@ -31,6 +31,13 @@
             }
             else
                 Console.WriteLine("ungleich");
+
+
+
+            Dackel dackel = new Dackel();
+            dackel.Name = "Bello";
+
+            Console.WriteLine(dackel.Kommunikation());
         }
     }
 
@@ -66,15 +73,17 @@
 
     public class Hund : Lebewesen
     {
+        private string name;
+
         public override string Name 
         { 
-            get => base.Name;
+            get => name;
 
             set
             {
                 if (!string.IsNullOrEmpty(value))
                 {
-                    Name = value;
+                    name = value;
                 }
             }
         }
@@ -105,5 +114,14 @@
 
             return true;
         }
+    }
+
+
+    public class Dackel : Hund
+    {
+        //public override string Kommunikation()
+        //{
+        //    return "Macht Dackel-Wuff Wuff";
+        //}
     }
 }

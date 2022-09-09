@@ -108,11 +108,11 @@
             this.Treibstoff = treibstoff;
         }
 
-        //Überxchreibung der Info()-Methode mit Bezug auf die Methode der Mutterklasse (base)
-        //public override string Info()
-        //{
-        //    return "Das Schiff " + base.Info() + $" Es fährt mit {this.Treibstoff}.";
-        //}
+        //Überschreibung der Info()-Methode mit Bezug auf die Methode der Mutterklasse(base)
+        public override string Info()
+        {
+            return "Das Schiff " + base.Info() + $" Es fährt mit {this.Treibstoff}.";
+        }
     }
 
     //vgl. Schiff
@@ -125,10 +125,10 @@
             this.AnzahlTueren = anzTueren;
         }
 
-        //public override string Info()
-        //{
-        //    return "Der PKW " + base.Info() + $" Er hat {this.AnzahlTueren} Türen.";
-        //}
+        public override string Info()
+        {
+            return "Der PKW " + base.Info() + $" Er hat {this.AnzahlTueren} Türen.";
+        }
     }
 
     //vgl. Schiff
@@ -142,9 +142,9 @@
             this.MaxFlughöhe = maxFH;
         }
 
-        //public override string Info()
-        //{
-        //    return "Das Flugzeug " + base.Info() + $" Es kann bis auf {this.MaxFlughöhe}m aufsteigen.";
-        //}
+        public override string Info()
+        {
+            return "Das Flugzeug " + base.Info() + $" Es kann bis auf {this.MaxFlughöhe}m aufsteigen.";
+        }
     }
 }

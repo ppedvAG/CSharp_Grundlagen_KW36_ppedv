@@ -34,11 +34,13 @@
         public DateTime? Geburtsdatum { get; set; }
         
         public int? Id { get; set; }
+        
+        
         //Read-only Property mit Rückbezug auf andere Property
-        public int AlterInJahren
-        {
-            get { return ((DateTime.Now - this.Geburtsdatum).Days / 365); }
-        }
+        //public int AlterInJahren
+        //{
+        //    get { return ((DateTime.Now - this.Geburtsdatum).Days / 365); }
+        //}
         #endregion
 
         #region Konstruktor
@@ -88,7 +90,7 @@
             Console.WriteLine(neuesLebewesen.Name);
 
             Console.WriteLine(neuesLebewesen.Geburtsdatum);
-            Console.WriteLine(neuesLebewesen.AlterInJahren);
+            //Console.WriteLine(neuesLebewesen.AlterInJahren);
 
             //Aufruf einer klasseneigenen Funktion
             Lebewesen kind = neuesLebewesen.GebäreKind("Fridolin");

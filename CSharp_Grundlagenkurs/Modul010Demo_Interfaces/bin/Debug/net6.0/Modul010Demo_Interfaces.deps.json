@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul010Demo_Interfaces/1.0.0": {
+        "runtime": {
+          "Modul010Demo_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul010Demo_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
