@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\bin\Debug\net6.0\RecordsVsClasses.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\bin\Debug\net6.0\RecordsVsClasses.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\bin\Debug\net6.0\RecordsVsClasses.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\bin\Debug\net6.0\RecordsVsClasses.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\bin\Debug\net6.0\RecordsVsClasses.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\refint\RecordsVsClasses.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\RecordsVsClasses.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\RecordsVsClasses\obj\Debug\net6.0\ref\RecordsVsClasses.dll

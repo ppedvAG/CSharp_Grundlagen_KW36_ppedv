@@ -72,27 +72,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul010_Interfaces", "Modu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul010Demo_Interfaces", "Modul010Demo_Interfaces\Modul010Demo_Interfaces.csproj", "{E186DC69-2666-4D48-942D-BBCC7B79E36E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul010Demo_InterfacesInNET", "Modul010Demo_InterfacesInNET\Modul010Demo_InterfacesInNET.csproj", "{FDE36C06-54AA-4541-BCA0-3E43DDD6CBBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul010Demo_InterfacesInNET", "Modul010Demo_InterfacesInNET\Modul010Demo_InterfacesInNET.csproj", "{FDE36C06-54AA-4541-BCA0-3E43DDD6CBBB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul011_GenerischeListen", "Modul011_GenerischeListen", "{BDC1282E-2648-487D-8242-FF3094669A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListSamples", "GenericListSamples\GenericListSamples.csproj", "{B43A1457-082C-4347-BC7D-92294A6E3A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericListSamples", "GenericListSamples\GenericListSamples.csproj", "{B43A1457-082C-4347-BC7D-92294A6E3A25}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul11Demo_DictionaryUseCase", "Modul11Demo_DictionaryUseCase\Modul11Demo_DictionaryUseCase.csproj", "{B81AEBB9-E15A-4528-8DBB-2DB67102DDED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesVererbungSample", "InterfacesVererbungSample\InterfacesVererbungSample.csproj", "{947FC5C9-0050-45A4-BADB-326864D73D9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesVererbungSample", "InterfacesVererbungSample\InterfacesVererbungSample.csproj", "{947FC5C9-0050-45A4-BADB-326864D73D9D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul012_Exceptions", "Modul012_Exceptions", "{11D313DE-3FD0-48EF-8D17-155D67F590FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{88D29A1A-4505-4DF7-A5A2-FB0219DFEE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{88D29A1A-4505-4DF7-A5A2-FB0219DFEE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApp", "MathApp\MathApp.csproj", "{BAE5B5E9-E680-499B-BEE1-D444E1750931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathApp", "MathApp\MathApp.csproj", "{BAE5B5E9-E680-499B-BEE1-D444E1750931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAppWinForm", "MathAppWinForm\MathAppWinForm.csproj", "{717AD0D8-A13A-445A-81C4-F9BF3529C941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathAppWinForm", "MathAppWinForm\MathAppWinForm.csproj", "{717AD0D8-A13A-445A-81C4-F9BF3529C941}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul013_DelegatesEvents", "Modul013_DelegatesEvents", "{435B6292-8A35-41B4-8232-1657A8458E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul013Demo", "Modul013Demo\Modul013Demo.csproj", "{99EAFF54-81AC-4B7E-903B-8947224D31D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul013Demo", "Modul013Demo\Modul013Demo.csproj", "{99EAFF54-81AC-4B7E-903B-8947224D31D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul014_LinqUndLambda", "Modul014_LinqUndLambda", "{66556F07-A838-4652-B20C-B281A0C1F3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul014Demo", "Modul014Demo\Modul014Demo.csproj", "{17910A62-5B65-4DBA-B53B-7AF1D2453A30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul015_Records", "Modul015_Records", "{1787507C-2CFE-4C63-B956-416E29D5D331}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul016_Structs", "Modul016_Structs", "{C4B19BC8-3F64-41B5-A6BF-2CBBFA5B23F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsVsClasses", "RecordsVsClasses\RecordsVsClasses.csproj", "{5321A9A7-5441-4628-9435-D1363894C3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructVsClasses", "StructVsClasses\StructVsClasses.csproj", "{0428F576-A719-4AA1-8B58-5CB56FA5D15C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -228,6 +240,18 @@ Global
 		{99EAFF54-81AC-4B7E-903B-8947224D31D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99EAFF54-81AC-4B7E-903B-8947224D31D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99EAFF54-81AC-4B7E-903B-8947224D31D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17910A62-5B65-4DBA-B53B-7AF1D2453A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17910A62-5B65-4DBA-B53B-7AF1D2453A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17910A62-5B65-4DBA-B53B-7AF1D2453A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17910A62-5B65-4DBA-B53B-7AF1D2453A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5321A9A7-5441-4628-9435-D1363894C3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5321A9A7-5441-4628-9435-D1363894C3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5321A9A7-5441-4628-9435-D1363894C3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5321A9A7-5441-4628-9435-D1363894C3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0428F576-A719-4AA1-8B58-5CB56FA5D15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0428F576-A719-4AA1-8B58-5CB56FA5D15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0428F576-A719-4AA1-8B58-5CB56FA5D15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0428F576-A719-4AA1-8B58-5CB56FA5D15C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +289,9 @@ Global
 		{BAE5B5E9-E680-499B-BEE1-D444E1750931} = {11D313DE-3FD0-48EF-8D17-155D67F590FA}
 		{717AD0D8-A13A-445A-81C4-F9BF3529C941} = {11D313DE-3FD0-48EF-8D17-155D67F590FA}
 		{99EAFF54-81AC-4B7E-903B-8947224D31D7} = {435B6292-8A35-41B4-8232-1657A8458E94}
+		{17910A62-5B65-4DBA-B53B-7AF1D2453A30} = {66556F07-A838-4652-B20C-B281A0C1F3C9}
+		{5321A9A7-5441-4628-9435-D1363894C3F4} = {1787507C-2CFE-4C63-B956-416E29D5D331}
+		{0428F576-A719-4AA1-8B58-5CB56FA5D15C} = {C4B19BC8-3F64-41B5-A6BF-2CBBFA5B23F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6935B125-A976-45EB-BA7F-CC1ACA956921}
