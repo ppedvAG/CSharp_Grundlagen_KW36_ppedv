@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\bin\Debug\net6.0\GenericListSamples.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\bin\Debug\net6.0\GenericListSamples.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\bin\Debug\net6.0\GenericListSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\bin\Debug\net6.0\GenericListSamples.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\bin\Debug\net6.0\GenericListSamples.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\refint\GenericListSamples.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\GenericListSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_KW36_ppedv\CSharp_Grundlagenkurs\GenericListSamples\obj\Debug\net6.0\ref\GenericListSamples.dll

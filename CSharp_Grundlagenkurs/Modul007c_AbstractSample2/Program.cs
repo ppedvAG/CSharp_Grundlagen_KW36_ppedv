@@ -32,8 +32,9 @@
                     Console.WriteLine($"Compressrate {pdfDoc.Watermark}");
                 }
             }
-
         }
+
+
     }
 
     public abstract class DocumentBase
@@ -41,6 +42,8 @@
         public string FileName { get; set; }
 
         public abstract void Print();
+
+        
     }
 
     public class WordDocument : DocumentBase
@@ -52,6 +55,25 @@
         public override void Print()
         {
             Console.WriteLine("Word Document wird gedruckt");
+        }
+
+        public override bool Equals(object? obj)
+        {
+            //Gibt es ein Objekt, dass mir als Parameter übergeben wurde
+            if (obj == null)
+                throw new Exception("obj is null");
+
+            // Validieren obj nach WordDocument
+            if (obj is not WordDocument)
+                throw new ArgumentException("Es wurde kein WordDoc-Object gefunden");
+
+
+            WordDocument otherWordDoc = (WordDocument)obj;
+
+            if (this.FileName != otherWordDoc.FileName)
+                return false;
+
+            return true;
         }
     }
 

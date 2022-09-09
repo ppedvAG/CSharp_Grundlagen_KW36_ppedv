@@ -79,6 +79,7 @@
     public class Square : Shape
     {
         private double side;
+        private double _variablenamen;
 
         public Square(double side)
         {

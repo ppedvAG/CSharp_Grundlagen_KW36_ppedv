@@ -56,7 +56,7 @@
 
         public virtual string Kommunikation ()
         {
-            return $"Lebewesen kommuniziert undefiniert";
+            return $"Lebewesen kommuniziert";
         }
     }
 

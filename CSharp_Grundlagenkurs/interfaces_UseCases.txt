@@ -1,3 +1,8 @@
 
 
 SOLID Prinzipien (5 Regel, wie man mit Klassen und Interfaces umgeht)
+ -> Dependecy Inversion (letzte Regel von SOLID)
+	-> IOC Container / Dependency Injections
+	-> Loose Kopplung -> Segeration of Concerne 
+
+
